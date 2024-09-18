@@ -1,0 +1,29 @@
+Sistema de Gestão de Estoque para PMEs(pequenas e médias empresas): Solução Acessível e Eficiente para Otimização de Operações
+
+
+1. O problema ou oportunidade percebida:
+O problema identificado é a dificuldade enfrentada por pequenas e médias empresas (PMEs) em gerenciar seus estoques de maneira eficiente e integrada, o que resulta em perdas financeiras devido à falta de controle e à ausência de ferramentas acessíveis para otimizar o processo. A oportunidade é desenvolver um software de gestão de estoque acessível, que atenda às necessidades de empresas menores e ofereça funcionalidades automatizadas.
+
+2. A razão ou justificativa para esta demanda:
+Muitas PMEs enfrentam desafios na gestão de seus estoques por dependerem de métodos manuais, como planilhas ou até mesmo anotações. Isso gera erros e ineficiências que impactam diretamente a lucratividade e o funcionamento das operações. A maioria das soluções robustas no mercado são voltadas para grandes empresas, sendo caras e complexas para negócios menores. Um software simples, intuitivo e de custo acessível pode suprir essa lacuna e melhorar a competitividade das PMEs.
+
+3. A descrição sucinta do produto de software que será produzido:
+O produto é um sistema de gestão de estoque online, focado em pequenas e médias empresas, que permitirá o cadastro de produtos, monitoramento de entradas e saídas, alertas de baixa de estoque e relatórios de desempenho. Ele contará com uma interface amigável e poderá ser acessado tanto por computadores quanto por dispositivos móveis.
+
+4. Identificação dos clientes, usuários e demais envolvidos/impactados com o produto:
+- Clientes: Pequenas e médias empresas que necessitam de uma solução eficiente de gestão de estoque.
+- Usuários: Donos de pequenas empresas, gestores de estoque, funcionários de armazém e equipe administrativa.
+- Envolvidos/Impactados: Fornecedores e parceiros comerciais (ao otimizar o gerenciamento de estoque, facilita-se a relação com fornecedores), clientes finais (ao garantir a disponibilidade de produtos e uma operação mais eficiente).
+
+5. Identificação dos principais critérios de qualidade para o produto:
+- Usabilidade: O sistema precisa ser fácil de usar para pessoas com pouca experiência em tecnologia.
+- Confiabilidade: O software deve garantir que as informações de estoque sejam precisas e atualizadas em tempo real.
+- Segurança: É essencial que o produto proteja os dados das empresas, como inventário e relatórios financeiros.
+- Escalabilidade: O sistema deve ser capaz de crescer conforme a empresa aumenta suas operações.
+- Portabilidade: Acessível em diferentes dispositivos, como smartphones, tablets e computadores.
+- Desempenho: O software deve ser ágil, com resposta rápida às operações diárias de entrada e saída de estoque.
+
+6. Avaliação dos riscos:
+- Riscos de não entrega: Problemas no planejamento do escopo, dificuldades técnicas durante o desenvolvimento ou falta de recursos financeiros podem atrasar ou impedir a entrega do software.
+- Falhas técnicas: Bugs ou falhas no sistema que comprometam a integridade dos dados ou a funcionalidade do software podem causar grandes prejuízos aos clientes, especialmente no gerenciamento de estoques críticos.
+- Riscos de desenvolvimento: Falta de familiaridade da equipe com as tecnologias escolhidas para o projeto, mudanças frequentes no escopo, problemas de integração entre diferentes módulos do sistema ou falta de uma equipe multidisciplinar podem comprometer o sucesso do desenvolvimento.
